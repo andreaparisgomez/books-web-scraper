@@ -4,6 +4,11 @@ This project implements a Python web scraper that crawls the demo website **book
 
 The script automatically follows pagination and collects book metadata into a structured dataset.
 
+## Project Write-Up
+
+A detailed explanation of this project is available here:  
+👉 [Read the blog post](https://andreaparisdata.hashnode.dev/how-i-built-a-python-web-crawler-to-extract-data-from-multiple-pages-and-store-it-in-sql)
+
 ## Features
 
 - Crawls all catalogue pages automatically
